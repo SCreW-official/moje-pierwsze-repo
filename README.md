@@ -11,3 +11,5 @@ test **pogrubienia** uzywajac **
 test *kursywy* uzywajac *
 
 1.4 - pkt.6 zmiana README
+
+1.4 - pkt.9 test konfliktu z poziomu main
