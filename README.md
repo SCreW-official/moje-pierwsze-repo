@@ -9,3 +9,5 @@
 test **pogrubienia** uzywajac **
 
 test *kursywy* uzywajac *
+
+1.4 - pkt.6 zmiana README
